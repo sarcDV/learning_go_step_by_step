@@ -1,0 +1,16 @@
+che cazz te fa
+https://github.com/sarcDV/learning_go_step_by_step
+
+git init
+git commit -m "Initial commit" 
+git remote add origin https://github.com/sarcDV/learning_go_step_by_step.git
+git push -u origin master
+
+echo "# My Project" >> README.md
+git add README.md
+git commit -m "Initial commit"
+git push -u origin main
+
+git remote add origin https://github.com/sarcDV/learning_go_step_by_step.git
+git branch -M main
+git push -u origin main
